@@ -1,16 +1,16 @@
 # 🎯 Data Mining
 
-**Academic Learning Project - Data Mining**
+**Data Science & Analysis - Data Mining**
 
 ---
 
 ## 📊 **PROJECT METADATA**
 
-| **Category** | academic |
+| **Category** | data-science |
 |--------------|------------------|
 | **Languages** | python |
 | **Technologies** | machine-learning/data-science |
-| **Frameworks** | none |
+| **Frameworks** | scikit-learn/pandas |
 | **Status** | academic |
 | **Year** | 2023 |
 | **Featured** | false |
